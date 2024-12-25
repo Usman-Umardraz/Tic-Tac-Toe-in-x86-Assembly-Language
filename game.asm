@@ -20,7 +20,7 @@ FError db " ERROR!, input is not a valid digit for the game$"
  
      
 GameName  db "                     ****   Tic-Tac-Toe   ****$",0
-devName db "     Developed by  ------------->   Usman & Junaid Zaffar$",0
+devName db "     Developed by  ------------->   Usman$",0
 coursTitle db "     Course       -------------->   Computer Organization & Assembly Language$",0
 department db "     Department   -------------->   Computer Science$",0
 semester db "     Semester     -------------->   4th$",0
