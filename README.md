@@ -27,7 +27,7 @@ Requirements
 
 DOS or DOS Emulator (e.g., DOSBox).
 
-Assembler (TASM, NASM, or MASM).
+Assembler (TASM).
 
 
 
